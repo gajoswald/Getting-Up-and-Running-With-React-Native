@@ -1,3 +1,3 @@
 ## Chapters
 
-2. [FlatList](./FlatList/readme.md)
+2. [FlatList](./FlatList/README.md)
